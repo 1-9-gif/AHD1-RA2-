@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb23"
+  },
+  "nombre": "Consumidor Final",
+  "nit": "CF"
+},
+{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb24"
+  },
+  "nombre": "Ana López",
+  "nit": "1234567-8",
+  "telefono": "5555-1234",
+  "direccion": {
+    "zona": 3,
+    "ciudad": "Quetzaltenango"
+  }
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb25"
+  },
+  "cliente_id": {
+    "$oid": "6b07882f3f308b927be8fb24"
+  },
+  "fecha": {
+    "$date": "2026-11-26T01:15:27.202Z"
+  },
+  "items": [
+    {
+      "producto_id": {
+        "$oid": "6b07882f3f308b927be8fb1e"
+      },
+      "nombre": "Cuaderno espiral 100 hojas",
+      "cantidad": 2,
+      "precio": 18.5,
+      "subtotal": 37
+    },
+    {
+      "producto_id": {
+        "$oid": "6b07882f3f308b927be8fb20"
+      },
+      "nombre": "Lápiz HB",
+      "cantidad": 5,
+      "precio": 1.5,
+      "subtotal": 7.5
+    }
+  ],
+  "total": 44.5
+}]

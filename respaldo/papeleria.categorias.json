@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb1b"
+  },
+  "nombre": "Cuadernos",
+  "descripcion": "Cuadernos y libretas"
+},
+{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb1c"
+  },
+  "nombre": "Escritura",
+  "descripcion": "Lápices, lapiceros y marcadores"
+},
+{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb1d"
+  },
+  "nombre": "Arte",
+  "descripcion": "Colores, crayones y pinturas"
+}]

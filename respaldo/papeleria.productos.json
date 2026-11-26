@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb1e"
+  },
+  "codigo": "CUA-001",
+  "nombre": "Cuaderno espiral 100 hojas",
+  "precio": 18.5,
+  "stock": 40,
+  "categoria_id": {
+    "$oid": "6b07882f3f308b927be8fb1b"
+  },
+  "proveedor": "Distribuidora Escolar"
+},
+{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb1f"
+  },
+  "codigo": "CUA-002",
+  "nombre": "Libreta de bolsillo",
+  "precio": 7,
+  "stock": 25,
+  "categoria_id": {
+    "$oid": "6b07882f3f308b927be8fb1b"
+  },
+  "proveedor": "Distribuidora Escolar"
+},
+{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb20"
+  },
+  "codigo": "ESC-001",
+  "nombre": "Lápiz HB",
+  "precio": 1.5,
+  "stock": 200,
+  "categoria_id": {
+    "$oid": "6b07882f3f308b927be8fb1c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb21"
+  },
+  "codigo": "ESC-002",
+  "nombre": "Lapicero azul",
+  "precio": 2.5,
+  "stock": 150,
+  "categoria_id": {
+    "$oid": "6b07882f3f308b927be8fb1c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6b07882f3f308b927be8fb22"
+  },
+  "codigo": "ART-001",
+  "nombre": "Caja de crayones 12",
+  "precio": 12,
+  "stock": 28,
+  "categoria_id": {
+    "$oid": "6b07882f3f308b927be8fb1d"
+  },
+  "etiquetas": [
+    "infantil",
+    "colores"
+  ]
+}]
